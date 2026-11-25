@@ -8,3 +8,13 @@ I had implemented some basic OS works.
 This OS is only controlled by kernal use, NO networking libraries.
 Interesting this is there is text editor with basic operatoins such as copy, paste, save, overwrite, exit.
 There are few commands are there , u can use your keyboard pageup and pagedown for scrolling ( just double linked list )
+
+
+
+I want to try running the OS,then download the tanooj.iso file above.
+run the below commands, to run on virtuval machine
+
+
+qemu-system-i386 -cdrom tanooj.iso
+
+qemu-system-i386 -cdrom tanooj.iso -m 512 -boot d
