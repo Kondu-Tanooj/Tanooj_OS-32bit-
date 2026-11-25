@@ -11,7 +11,7 @@ There are few commands are there , u can use your keyboard pageup and pagedown f
 
 
 
-I want to try running the OS,then download the tanooj.iso file above.
+If you want to try running the OS,then download the tanooj.iso file above.
 run the below commands, to run on virtuval machine
 
 
